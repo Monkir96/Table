@@ -1,0 +1,5 @@
+body{font-family:'Courier New', Courier, monospace;font-size: 30px}
+table{width:90%;margin-left: 50px; margin-right: 50x;}
+table td{text-align: center;padding: 40px}
+table th{color: rgb(188, 35, 35);padding: 15px;position:absolute ;top: 0px;background-color: black}
+table tr:nth-child(2n+1){background: #6ec5ff}
